@@ -55,8 +55,8 @@ GIT_TOKEN = getenv("GIT_TOKEN", "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P")
 LOGGER_ID = int(getenv("LOGGER_ID", -1002141133985))
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/BOTS--PRIVACY-POLICY-01-19")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/about_deadly_venom")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NOBITA_SUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/hackarp13x")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/bihari_music")
 
 # -------------------- [ LIMITS & TIME SETTINGS ] --------------------
 
